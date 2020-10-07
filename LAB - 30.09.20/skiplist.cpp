@@ -128,7 +128,7 @@ int random_level()
 }
  
 /*
- * Insert Element in Skip List
+ * 
  */
 void skiplist::insert_element(int &value) 
 {
